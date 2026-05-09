@@ -158,5 +158,5 @@ To use the disease prediction AI, you must download the pre-trained model files 
 B.Sc. Software Engineering | Üsküdar University  
 📧 Email: [faisalslamav8@gmail.com](mailto:faisalslamav8@gmail.com)  
 🔗 LinkedIn: www.linkedin.com/in/salamafaisal 
-💻 GitHub: [V8FS1](https://github.com/V8FS1)  
+💻 GitHub: [FaisalSlama]([https://github.com/V8FS1](https://github.com/FaisalSlama))  
 
